@@ -1,6 +1,6 @@
 ﻿Denkmalliste Berlin
 
-Stand 02.09.2020
+Stand 05.05.2021
 Für eine zuverlässige hausnummerngenaue Adressensuche verwenden Sie bitte die Denkmaldatenbank.
 
 
@@ -1143,12 +1143,6 @@ Düsseldorfer Straße 17-18
 Pariser Straße 44
 (CHA-WIL/WILMD-G)
 
-09040511
-Eschenallee 1A, 3, Nervenheilanstalt, 1887-88 von C. Friederichs; Erweiterungsbau 1901-03 von Heinrich Seeling; Anbau 1905-06 von Otto Walter
-Nußbaumallee 35, 38
-Akazienallee 34/36
-(CHA-WIL/WESTE-G)
-
 09040480
 Fabriciusstraße 31, Ev. Gustav-Adolf-Kirche mit Gemeinde- und Schwesternhaus, 1932-34 von Otto Bartning (D)
 Herschelstraße 14
@@ -1506,6 +1500,14 @@ Niebuhrstraße 14-19B, Wohnanlage mit Freiflächen, 1920 von Hochbauamt Charlott
 Niebuhrstraße 49-54, Wohnanlage, 1928 von Werner von Walthausen; Umbau 1952
 (CHA-WIL/CHARL-G)
 
+09040511
+Nußbaumallee 38, Nervenheilanstalt, 1887-88 von C. Friederichs; Erweiterungsbau 1901-03 von Heinrich Seeling; Anbau 1905-06 von Otto Walter
+(CHA-WIL/WESTE-G)
+
+09040625
+Nußbaumallee 38, ehem. Kurhaus Westend für Nervenleidende, 1896-97 von Heinrich Seeling; Gartenpavillon, 1897 (?) von Heinrich Seeling; Erweiterung 1909 von Adolf Wollenberg
+(CHA-WIL/WESTE-G)
+
 09040528
 Nußbaumallee 49/51B, Reihenhausanlage, 1973-74 von Hasso von Werder, Uwe Pompinon, Klaus Beyersdorff
 Akazienallee 52/54B
@@ -1652,10 +1654,6 @@ Spandauer Damm 218/220, ehem. Schloß Ruhwald, Remisengebäude, 1867-68 von Carl
 Stadtbahntrasse zwischen Ostbahnhof und Holtzendorffstraße, Stadtbahnviadukt, Bahndamm, Brückenbauten, 1875-82 von Ernst Dircksen; 1912-39 Umbauten (D) (siehe Denkmalliste Charlottenburg-Wilmersdorf, Gesamtanlage Hardenbergplatz, Fern-, S- und U- Bahnhof Zoologischer Garten und Baudenkmale Gervinusstraße 34; Savignyplatz, S-Bahnhof Savignyplatz; Stuttgarter Platz, Fern- und S- Bahnhof Charlottenburg; siehe Denkmalliste Friedrichshain-Kreuzberg, Gesamtanlage Stadtbahntrasse; siehe Denkmalliste Mitte, Gesamtanlagen Stadtbahntrasse; Alexanderplatz, S- und U-Bahnhof Alexanderplatz; Friedrichstraße 98-99, S- und U-Bahnhof Friedrichstraße und Baudenkmale Am Zwirngraben, S-Bahnhof Börse; Bartningallee, S-Bahnhof Bellevue; Holzmarktstraße, S- und U-Bahnhof Jannowitzbrücke)
 (CHA-WIL/CHARL-G)
 
-09010139
-Stallupöner Allee 19-23, Verstärkeramt für Telefongespräche mit Bunkeranlagen und Wohnhaus der Reichs-Postdirektion Berlin, von 1946-2006 Rundfunksendeanlage, 1935-36 von Hans Wolff-Grohmann
-(CHA-WIL/WESTE-G)
-
 09040614
 Steinplatz 3, Mietshausgruppe; Steinplatz 3: 1894-95 von Th. Knoll; Carmerstraße 18, 1894-95 von Gustav Haase; Uhlandstraße 2, 1894-95 von Th. Knoll; Umbau 1933 von Bielenberg & Moser
 Carmerstraße 18-19
@@ -1748,14 +1746,6 @@ Aßmannshauser Straße 19-24A
 Hanauer Straße 67-71
 Siegburger Straße 10-16
 (CHA-WIL/WILMD-G)
-
-09040625
-Ulmenallee 35/37, ehem. Kurhaus Westend für Nervenleidende, 1896-97 von Heinrich Seeling; Gartenpavillon, 1897 (?) von Heinrich Seeling; Erweiterung 1909 von Adolf Wollenberg
-(CHA-WIL/WESTE-G)
-
-09046583
-Waldmeisterstraße 10/20, Tennis-Club 1899 e.V. (Blau-Weiß), um 1925 von Paul Karchow und Georg Demmler (siehe Gartendenkmal Waldmeisterstraße 10/20)
-(CHA-WIL/GRUNE-G)
 
 09020348
 Wegelystraße 1, Königliche Porzellan Manufaktur (KPM), Schlämmerei, Formerei und Dreherei, Ofengebäude, 1868-1872 von Gustav Möller, übrige Bauten 1955-62 von Bruno Grimmek
@@ -2064,6 +2054,10 @@ Bismarckallee 19A, 21 B-D, Stallgebäude des Palais Mendelssohn, 1896-98 von Ern
 Herthastraße
 (CHA-WIL/GRUNE-D)
 
+09096049
+Bismarckallee 21A, Haus Dr. Dienst, Wohn- und Bürohaus, mit Beeten, Einfassungen und Bodenbelägen im Außenbereich, 1964-65 von Werner Düttmann
+(CHA-WIL/GRUNE-D)
+
 09046403
 Bismarckallee 22, Landhaus, 1910-11 von Adolf Wollenberg
 (CHA-WIL/GRUNE-D)
@@ -2351,6 +2345,10 @@ Caspar-Theyß-Straße 17, Villa Gündel, 1891 von Ferdinand Dietrich
 Humboldtstraße 20
 (CHA-WIL/GRUNE-D)
 
+09096050
+Charlottenburger Ufer 1, Wohn- und Geschäftshaus, 1985-87 von Hans Kollhoff und Arthur Ovaska
+(CHA-WIL/CHARL-D)
+
 09020507
 Christstraße 18, Mietshaus, 1883-84 von Ernst George; Bäckerei 1903 von Otto Röder; Seitenflügel und Quergebäude, 1905 von Otto Röder (siehe Ensemble Christstraße 17-20...)
 (CHA-WIL/CHARL-D)
@@ -2622,6 +2620,10 @@ Emser Straße 12-13, Vereinshaus der Provinzial-Großloge, 1911-13 von Max Grün
 09011436
 Emser Straße 50, Fichte-Gymnasium, 1909 von Otto Herrnring
 (CHA-WIL/WILMD-D)
+
+09096051
+Eosanderstraße 18-18C, Wohnhaus mit Zuwegung und Leuchten, 1985-87 von Hans Kollhoff und Arthur Ovaska
+(CHA-WIL/CHARL-D)
 
 09046441
 Erbacher Straße 4, Landhaus, 1912 von Hermann Dernburg
@@ -4485,6 +4487,10 @@ Misdroyer Straße 51, Grabkreuz Peter Gottfried Salomon Schmidt auf dem Schmarge
 Misdroyer Straße 51, Wandgrab B 5-6 für Julius Habicht auf dem Schmargendorfer Friedhof, 1912 von Josef Rauch
 (CHA-WIL/SCHMA-D)
 
+09075022
+Misdroyer Straße 51, Mausoleum Familie H. Zimmermann auf dem Friedhof Schmargendorf, um 1901
+(CHA-WIL/SCHMA-D)
+
 09096355
 Mohrunger Allee 2A, Landhaus von der Schulenburg, Einfamilienhaus, 1935 von Heinrich Schweitzer (D)
 (CHA-WIL/WESTE-D)
@@ -4664,6 +4670,11 @@ Alt-Lietzow 16/18
 Otto-Suhr-Allee 110/112, Wohnanlage, Büros, Läden, 1953-54 von Robert Tepez und Karl-Heinz Hübner
 Wintersteinstraße 1/3
 (CHA-WIL/CHARL-D)
+
+09096052
+Otto-Suhr-Allee 144, 144A, Wohn- und Geschäftshaus mit Zuwegung und Leuchten, 1985-87 von Hans Kollhoff und Arthur Ovaska
+Eosanderstraße 21-21E
+ (CHA-WIL/CHARL-D)
 
 09011491
 Paretzer Straße 11-12, St.-Gertrauden-Krankenhaus, 1929 von H. Bunning
@@ -5211,6 +5222,10 @@ Spohrstraße 6, Einfamilienhaus, 1936 von Fritz August Breuhaus de Groot
 Spohrstraße 8, Einfamilienhaus, 1936 von Fritz August Breuhaus de Groot
 (CHA-WIL/GRUNE-D)
 
+09010139
+Stallupöner Allee 23, Wohnhaus der Reichs-Postdirektion Berlin, 1935-36 von Hans Wolff-Grohmann
+(CHA-WIL/WESTE-D)
+
 09096443
 Stallupöner Allee 37, Wohnhaus, 1937 von Egon Eiermann
 (CHA-WIL/WESTE-D)
@@ -5593,6 +5608,10 @@ Babelsberger Straße 14-16
 Waldmeisterstraße 9, Einfamilienhaus, 1936-37 von G. A. Jonatha
 (CHA-WIL/GRUNE-D)
 
+09046583
+Waldmeisterstraße 10/20, Tennis-Club 1899 e.V. (Blau-Weiß), Clubhaus, um 1925 von Paul Karchow und Georg Demmler (siehe Gartendenkmal Waldmeisterstraße 10/20)
+(CHA-WIL/GRUNE-D)
+
 09096480
 Waldschulallee 34, Mommsenstadion, 1930 von Fred Forbát und Scheim; Umbau 1950ff
 (CHA-WIL/WESTE-D)
@@ -5848,15 +5867,15 @@ Winkler Straße 15, Villa Becher, 1895-96 von Ewald Becher
 (CHA-WIL/GRUNE-D)
 
 09046597
-Wissmannstraße 10, Landhaus, 1899 von Richard Gerstenberg
+Wissmannstraße 10, Villa Nachod, 1899 von Richard Gerstenberg, Einfriedung, um 1910
 (CHA-WIL/GRUNE-D)
 
 09046598
-Wissmannstraße 11A, Villa, 1891-92 von Wilhelm Walther
+Wissmannstraße 11A, Villa mit Einfriedung, 1891-92 von Wilhelm Walther
 (CHA-WIL/GRUNE-D)
 
 09046599
-Wissmannstraße 12, Villa, 1898 von Zaar & Vahl, 1903 von W. Bröker
+Wissmannstraße 12, Villa mit Einfriedung, 1898 von Zaar & Vahl, 1903 von W. Bröker
 (CHA-WIL/GRUNE-D)
 
 09010181
@@ -6279,11 +6298,11 @@ Olympischer Platz 1-5, Olympiagelände, Sport-, Grün- und Gartenanlagen mit Sku
 Am Glockenturm
 Coubertinplatz
 Friedrich-Friesen-Allee
+Jesse-Owns-Allee
 Passenheimer Straße 24, 30
 Rominter Allee 1/5
 Rossitter Weg
 Sportforumstraße
-Stadionallee
 Südtorweg
 Trakehner Allee
 (CHA-WIL/WESTE-Ga)
@@ -6374,7 +6393,7 @@ Uhlandstraße 161, Innenhof, um 1899
 (CHA-WIL/WILMD-Ga)
 
 09046142
-Waldmeisterstraße 10/20, Tennisanlage, um 1925 von Paul Karchow und Georg Demmler unter Mitwirkung der Firma Ludwig Späth, Abteilung für Sport- und Spielplatzbau (siehe Gesamtanlage Waldmeisterstraße 10/20)
+Waldmeisterstraße 10/20, Tennisanlage, um 1925 von Paul Karchow und Georg Demmler unter Mitwirkung der Firma Ludwig Späth, Abteilung für Sport- und Spielplatzbau (siehe Baudenkmal Waldmeisterstraße 10/20)
 (CHA-WIL/GRUNE-Ga)
 
 09046143
@@ -6648,22 +6667,22 @@ Schönleinstraße 9
 Gesamtanlagen siehe: Böckhstraße 10; 16-20; Dieffenbachstraße 39-40
 Baudenkmale siehe: Dieffenbachstraße 18; 19
 Weitere Bestandteile des Ensembles:
-09030652 - Dieffenbachstraße 11 / Grimmstraße 20, Mietshaus, 1882 von F. A. Lehmann
+09030652 - Dieffenbachstraße 11 / Grimmstraße 20, Mietshaus und Hofgebäude, 1882 von F. A. Lehmann
 09030653 - Dieffenbachstraße 12, Mietshaus, 1891 von E. Schütze
 09030654 - Dieffenbachstraße 13, Mietshaus, 1897 von Wilhelm Schäfer
 09030655 - Dieffenbachstraße 16, Mietshaus, 1895-96 von August Eichentopf
-09030656 - Dieffenbachstraße 17, Mietshaus, 1896 von Eichentopf
+09030656 - Dieffenbachstraße 17, Mietshaus und Hofgebäude, 1896 von Eichentopf
 09030657 - Dieffenbachstraße 20 / Graefestraße 21, Mietshaus, 1895-96 von Paul Hoppe und F. Sabing
 09030658 - Dieffenbachstraße 27 / Graefestraße 73, Mietshaus, 1885 von A. Kricke
 09030659 - Dieffenbachstraße 28, Mietshaus, 1885 von C. Lier
 09030660 - Dieffenbachstraße 29, Mietshaus, 1887 von W. Richter
 09030661 - Dieffenbachstraße 30, Mietshaus, 1887 von Heinrich Adolf Holland
 09030662 - Dieffenbachstraße 31, Mietshaus, 1885 von August Doepel
-09030663 - Dieffenbachstraße 32, Mietshaus, 1887 von David Speckmann
-09030664 - Dieffenbachstraße 34, Mietshaus, 1877 von Oskar Wolff & Gottlieb Klenke
-09030665 - Dieffenbachstraße 35, Mietshaus, 1890 von August Kösel
-09030666 - Dieffenbachstraße 36, Mietshaus, 1891 von August Kösel
-09030667 - Dieffenbachstraße 37, Mietshaus, 1888 von Richard Schröder
+09030663 - Dieffenbachstraße 32, Mietshaus und Hofgebäude, 1887 von David Speckmann
+09030664 - Dieffenbachstraße 34, Mietshaus und Hofgebäude, 1877 von Oskar Wolff & Gottlieb Klenke
+09030665 - Dieffenbachstraße 35, Mietshaus und Fabrikgebäude, 1890 von August Kösel
+09030666 - Dieffenbachstraße 36, Mietshaus und Fabrikgebäude, 1891 von August Kösel
+09030667 - Dieffenbachstraße 37, Mietshaus, 1888 von Richard Schröder; Fabrikgebäude, 1897
 09030668 - Dieffenbachstraße 38, Mietshaus, 1877 von G. Jehser
 09030669 - Dieffenbachstraße 58, Mietshaus, 1897 von August Eichentopf
 09030670 - Dieffenbachstraße 58A, Mietshaus, 1890 von August Eichentopf
@@ -6767,7 +6786,6 @@ Friedenstraße 2
 Baudenkmale siehe: Georgenkirchstraße 69; 70
 Weitere Bestandteile des Ensembles:
 09045151 - Georgenkirchstraße 69, Einfriedung, 1899 von A. Heinel
-09045152 - Georgenkirchstraße 69-70, Waschküchenhaus/Stall, 1873, Umbau, 1899
 (FRI-KRE/FRHAI-E)
 
 09030672
@@ -7395,7 +7413,7 @@ Körtestraße 1-3, 5
 Baudenkmale siehe: Urbanstraße 33; 34
 Weitere Bestandteile des Ensembles:
 09030995 - Fichtestraße 1-1A, Mietshaus, 1891 von August Hentschel
-09030996 - Fichtestraße 2, Mietshaus, 1890 von F. Böhmert, mit Wandbild im Innenhof auf Brandwand des Hauses Fichtestraße 3
+09030996 - Fichtestraße 2, Mietshaus, 1890 von F. Böhmert, mit Gartenhäuschen und Wandbild im Innenhof auf Brandwand des Hauses Fichtestraße 3
 09030997 - Fichtestraße 3, Mietshaus, 1890 von F. Böhmert mit Wandbild auf Brandwand zum Innenhof Fichtestraße 2
 09030998 - Fichtestraße 33, Mietshaus, 1886 von Louis Seiffert
 09030999 - Körtestraße 1/3, Mietshaus, um 1890
@@ -8316,7 +8334,7 @@ Pücklerstraße 34
 (FRI-KRE/KREUZ-D)
 
 09031134
-Enckestraße 4A, Mietshaus, 1847-48 von F. Vinetz und Wilmann (D)
+Enckestraße 4, Mietshaus, 1847-48 von F. Vinetz und Wilmann (D)
 (FRI-KRE/KREUZ-D)
 
 09030768
@@ -9486,7 +9504,7 @@ Urbanstraße 34, Mietshaus, 1890-91 von Wilhelm Seyring & Co. (siehe Ensemble Ur
 (FRI-KRE/KREUZ-D)
 
 09031255
-Urbanstraße 116, Urbanhof, Fabrik, 1894-95 von August Kösel
+Urbanstraße 116, Urbanhof, Mietshaus und Fabrikgebäude, 1894-95 von August Kösel
 (FRI-KRE/KREUZ-D)
 
 09031256
@@ -9532,6 +9550,10 @@ Waldemarstraße 33/35, Doppelmietshaus, 1883-84 von Franz Goltsch; Seitenfabrikg
 
 09010151
 Waldemarstraße 42-42B, Mietshaus mit Remise, 1863 von Albert Joll und Etagenfabrik, 1888 von Hermann Wolff
+(FRI-KRE/KREUZ-D)
+
+09045176
+Warschauer Brücke (Bahnanlage), Stellwerk B9, 1937 von Richard Brademann
 (FRI-KRE/KREUZ-D)
 
 09095136
@@ -10021,7 +10043,7 @@ Loeperplatz, Dorfanger mit Freiflächen und Bildwerken sowie umgebender Bebauung
 Heringer Straße 22
 Kielblockstraße 1-1A, 2
 Möllendorffstraße 23-24, 27, 32-33, 86-93
-Rutnickstraße 1/5
+Rutnikstraße 1/5
 Scheffelstraße 1, 45
 Baudenkmale siehe: Loeperplatz, Dorfkirche Lichtenberg; Denkmal „Der Sämann“; Möllendorffstraße 33
 Weitere Bestandteile des Ensembles:
@@ -10424,9 +10446,9 @@ Neuwieder Straße 2/50
 
 09040303
 Köpenicker Allee (östlich Nr. 127/189), sechs Flugzeughallen der ehem. Fliegerstation Berlin-Friedrichsfelde, 1917-18 von Gebr. Rank
+Am Alten Flugplatz
 Biesenhorster Weg
 Regener Straße
-Straße am Heizhaus
 (LIC/KARLH-G)
 
 09096018
@@ -10471,7 +10493,7 @@ Marktstraße 9-13, Schule, Turnhalle, Feuerwache, Turm und Umfassungsmauer, 1906
 (LIC/RUMBG-G)
 
 09040187
-Marzahner Chaussee, Friedhof der Gemeinde Friedrichsfelde, Friedhofskapelle und Erbbegräbnisse, 1781
+Marzahner Chaussee 20, Friedhof der Gemeinde Friedrichsfelde, Friedhofskapelle und Erbbegräbnisse, 1781
 (LIC/FRIFE-G)
 
 09040198
@@ -11316,7 +11338,7 @@ Strausberger Straße 12A-13C
 (LIC/AHOHS-Ga)
 
 09045899
-Herzbergstraße 79, Garten der ehem. Städtischen Irrenanstalt Herzberge, 1889-93 von Hermann Blankenstein, Erweiterungen nach 1913 (D) (siehe Ensemble Herzbergstraße 79 und Gesamtanlagen Herzbergstraße 79)
+Herzbergstraße 79, Garten der ehem. Städtischen Irrenanstalt Herzberge, 1889-93 von Hermann Blankenstein, Erweiterungen nach 1913 (D) (siehe Ensemble Herzbergstraße 79 und Gesamtanlage Herzbergstraße 79)
 Allee der Kosmonauten
 (LIC/LIBER-Ga)
 
@@ -12347,28 +12369,31 @@ Bestandteile des Ensembles:
 
 09065014
 Gendarmenmarkt 1-6, Wohn- und Geschäftshäuser
-Behrenstraße 30-33
-Charlottenstraße 33-34, 52-56, 60
-Französische Straße 24-33C, 40-44
-Hausvogteiplatz 1-9, 12
-Jägerstraße 20-33, 42-60
-Kronenstraße 38-40, 48
-Markgrafenstraße 38-41, 46
-Mohrenstraße 20-23, 30, 37-37B, 39-44
-Niederwallstraße 1-10, 39
-Oberwallstraße 4A-9
-Taubenstraße 20-33
+Behrenstraße 32-33
+Charlottenstraße 33, 33A, 52-56, 60
+Französische Straße 24-33C, 40, 42-44
+Hausvogteiplatz 1-9, 12, 13
+Jägerstraße 20-28, 31-33, 43, 44, 48-60
+Jerusalemer Straße 12
+Kronenstraße 48
+Markgrafenstraße 34-41, 46
+Mohrenstraße 20, 21, 30, 37, 39-42, 45
+Niederwallstraße 3-10, 39
+Oberwallstraße 6, 7, 9
+Taubenstraße 19, 20, 23-33
 Gesamtanlage siehe: Markgrafenstraße 38
-Baudenkmale siehe: Behrenstraße 32-33; Charlottenstraße 56; 60; Französische Straße 32; Gendarmenmarkt, Schillerdenkmal; 1-2; 3-4; 5-6; Hausvogteiplatz, U-Bahnhof; 1; 3-4; 8-9; 12; Jägerstraße 28; 33; 42-44; 49-50; 51; 54-55; Markgrafenstraße 46; Mohrenstraße, Mohrenkolonnaden; 20-21; Niederwallstraße 6-7; 8-9; 39; Oberwallstraße 6-7; Taubenstraße 23; 26
+Baudenkmale siehe: Behrenstraße 32-33; Charlottenstraße 53-54, 60; Französische Straße 32; Gendarmenmarkt 1-2; 3-4; 5-6; Schillerdenkmal; Hausvogteiplatz 1; 3-4; 8-9; 12; U-Bahnhof; Jägerstraße 28; 33; 42-44; 49-50; 51; 54-55; Markgrafenstraße 39-41; 46; Mohrenstraße 20-21; Mohrenkolonnaden; Niederwallstraße 6-7; 8-9; 39; Oberwallstraße 6-7; Taubenstraße 23; 26
 Konstituierende Bestandteile des Ensembles:
-09075005 - Charlottenstraße 55 / Jägerstraße 20, Geschäftshaus, 1907-08 von Otto March, Umbauten 1935, 1950-52
+09096043 - Charlottenstraße 52 / Französische Straße 25, Internat der Akademie für Gesellschaftswissenschaften, 1980-83 von Manfred Prasser, Ernst Wallis, Wolfgang Sebastian, Dieter Bankert
+09075005 - Charlottenstraße 55 / Jägerstraße 20, Geschäftshaus, 1907-08 von Otto March, Umbauten 1935, 1950-52, Umbau für Musikhochschule, 1979-88
+09080290 - Charlottenstraße 55, 56 / Jägerstraße 20 / Taubenstraße 31-33, Funktionsgebäude, 1979-88 von Manfred Prasser, Dietrich Kobe, Ernst Wallis
 09065040 - Französische Straße 24, Wohn- und Geschäftshaus, um 1895
 09095920 - Französische Straße 30, Theater Decorations Magazin der Oper, 1838 von Heinrich Krahmer, Umbauten 1927-29 von Heinz Tietze und Ernst Huntemüller
 09095921 - Französische Straße 31, ehemaliges Theater Decorations Magazin, 1838 von Heinrich Krahmer; Neubau des Magazingebäudes, 1936-38 von Ernst Huntemüller
-09065281 - Gendarmenmarkt, Stadtplatz, seit 1688, 1894 von Hermann Mächtig, seit 1936 Umgestaltungen (D)
-09065282 - Hausvogteiplatz, Platzgrundriß
+09065281 - Gendarmenmarkt, Stadtplatz, seit 1688, 1894 von Hermann Mächtig, seit 1936 Umgestaltungen (D), Platzneufassung 1976-87
+09065282 - Hausvogteiplatz, Platzgrundriss
 09035328 - Hausvogteiplatz 2, Quergebäude desWarenhauses der Deutschen Baugesellschaft, 1896 von Hien
-09035302 - Hausvogteiplatz 12, Gewerbehöfe, 1895 von Alterthum & Zadek
+09035302 - Hausvogteiplatz 12, Jerusalemer Straße 12, Gewerbehöfe, 1895 von Alterthum & Zadek
 09030033 - Jägerstraße 27, Wohn- und Geschäftshaus, 1892 von Albert Bohm (D)
 09030035 - Jägerstraße 29-31, Wohnhaus, um 1780, Umbauten um 1820, 1857 und 1913 (D)
 09030036 - Jägerstraße 32, Geschäftshaus, 1911-12 von Hart & Lesser (D)
@@ -12379,19 +12404,6 @@ Konstituierende Bestandteile des Ensembles:
 09030011 - Oberwallstraße  7, Treppenanlage des ehemaligen Wohnhauses Nr. 8, 1851
 09030012 - Oberwallstraße 9 / Hausvogteiplatz, Geschäftshaus, um 1900 von Kayser & v. Großheim, Aufstockung um 1930
 09080279 - Taubenstraße 20, Teil des Bankhauses Hardy & Co., um 1905, Umbauten 1924 und um 1950
-Nicht konstituierende Bestandteile des Ensembles:
-- Charlottenstraße 52 / Französische Straße 25 / Jägerstraße
-- Französische Straße 33-33C
-- Jägerstraße 24-26
-- Jägerstraße 45-48
-- Jägerstraße 52-53
-- Jägerstraße 56 / Markgrafenstraße 39-41
-- Mohrenstraße 37
-- Mohrenstraße 42-44
-- Niederwallstraße 1-5
-- Niederwallstraße 10
-- Taubenstraße 23A / Hausvogteiplatz 5-7
-- Taubenstraße 32-33
 (MIT/MITTE-E)
 
 09011245
@@ -12506,17 +12518,18 @@ Littenstraße
 (MIT/MITTE-E)
 
 09050323
-Kruppstraße 3-4, 13A-18, Kasernen des 1. Garde-Feld-Artillerie-Regiments, 1878-81 von Otto Heimerdinger, Oskar Appelius und La Pierre, Erweiterungsbauten, 1887-89 und 1895 von La Pierre; Teilumbau 1934-36; Wohnhäuser für Offiziere und Manschaften, 1912-14 von H. Lauenburg und Franz Pomplun
+Kruppstraße 4, 13A-18, Kasernen des 1. Garde-Feld-Artillerie-Regiments, mit Einfriedungen, 1878-95, 1912-14, 1934-36, 1951-59
 Feldzeugmeisterstraße 18
 Lehrter Straße 57-58
 Perleberger Straße 61A-62A
-Gesamtanlage siehe: Lehrter Straße 57; Perleberger Straße 61A-62A
-Baudenkmale siehe: Kruppstraße 3-4; 15-16
+Gesamtanlage siehe: Lehrter Straße 57; Perleberger Straße 62A-62A
+Baudenkmale siehe: Kruppstraße 2; 15-16
 Weitere Bestandteile des Ensembles:
+09085054 - Feldzeugmeisterstraße 18, Wirtschaftsgebäue, 1953-54 von Bruno Grimmek
 09050328 - Kruppstraße 13A-14A, Wohnhäuser für Offiziere und Manschaften, 1912-14 von H. Lauenburg und Franz Pomplun
 09095144 - Lehrter Straße 58, Reste der Einfriedung des Kgl. Corps-Bekleidungsamtes zu Berlin, 1898
-Nicht konstitutuierende Bestandteile:
-Feldzeugmeisterstraße 18, Kruppstraße 14B
+Nicht konstitutuierende Bestandteile: 
+Kruppstraße 14B
 Perleberger Straße 61A-61B 
 (MIT/MOABI-E)
 
@@ -13849,7 +13862,7 @@ Lehrter Straße 6-10, Mietshausgruppe, 1871-73 von Brisgen, Stute und Lauenburg 
 (MIT/MOABI-G)
 
 09050326
-Lehrter Straße 57, Königliches Corps-Bekleidungsamt zu Berlin, 1896-1898 von, 1903 von Zeidler, Feuerstein und Tischmeyer (siehe Ensemble Kruppstraße 3-4...)
+Lehrter Straße 57, Königliches Corps-Bekleidungsamt zu Berlin, 1896-1898, 1903 von Zeidler, Feuerstein und Tischmeyer (siehe Ensemble Kruppstraße 4...)
 Kruppstraße 17-18
 (MIT/MOABI-G)
 
@@ -14035,7 +14048,7 @@ Birkenstraße 60-61
 (MIT/MOABI-G)
 
 09050327
-Perleberger Straße 62-62A, Offiziers-Speiseanstalt des 1. Garde-Feld-Artillerie-Regiments, mit Einfriedung und Gartenanlage mit Krieger-Gedenksäule 1878-80 von Otto Heimerdinger, Anbauten um 1934; Umbauten 1951-52 und 2001 (D); Offizierswohnhaus, 1935 von A. Bunge (siehe Ensemble Kruppstraße 3-4...)
+Perleberger Straße 62-62A, Offiziers-Speiseanstalt des 1. Garde-Feld-Artillerie-Regiments, mit Gartenanlage, Einfriedung und Krieger-Gedenksäule, 1878-80 von Otto Heimerdinger, Anbauten um 1934, Umbauten 1951-52 und 2001 (D); Offizierswohnhaus, 1935 von A. Bunge (siehe Ensemble Kruppstraße 4...)
 (MIT/MOABI-G)
 
 09030313
@@ -15122,10 +15135,6 @@ Bundesratufer 10, Mietshaus, 1906-1907 von Paul Schöne
 Dortmunder Straße 15
 (MIT/MOABI-D)
 
-09050235
-Kurfürstenstraße 87, Lenzhaus, 1928-29 von Heinrich Straumer
-(MIT/TIERG-D)
-
 09011318
 Burgstraße 26, Geschäftshaus, 1910-11 (siehe Ensemble Anna-Louisa-Karsch-Straße 1/9, 4)
 (MIT/MITTE-D)
@@ -15147,10 +15156,9 @@ Charlottenstraße 43, Verein Deutscher Ingenieure, 1896-97 von Reimer & Körte (
 Mittelstraße 1
 (MIT/MITTE-D)
 
-09080290
-Charlottenstraße 56, Handelsstätte Friedrichstadt, 1906-07 von Hugo Sonnenthal (siehe Ensemble Gendarmenmarkt 1-6)
-Taubenstraße 31
-(MIT/MITTE-D)
+09075007
+Charlottenstraße 53-54, Otto-Nuschke-Haus, Parteisitz des Hauptvorstandes der Christlich-Demokratischen Union Deutschlands (CDU), 1981-85 von Manfred Prasser, Günter Boy (siehe Ensemble Gendarmenmarkt 1-6)
+ (MIT/MITTE-D)
 
 09075001
 Charlottenstraße 60, Berlinische Bodengesellschaft, 1907 von Cremer & Wolffenstein (siehe Ensemble Gendarmenmarkt 1-6)
@@ -15526,7 +15534,7 @@ Gendarmenmarkt, Schillerdenkmal, 1864-69 von Reinhold Begas (D) (siehe Ensemble 
 (MIT/MITTE-D)
 
 09065016
-Gendarmenmarkt 1-2, Deutscher Dom, 1781-85 Kuppelturm von Karl von Gontard; Neubau der Kirche auf dem ursprünglichen Grundriß Martin Grünbergs (1701-08), 1881-82 von Hude & Hennicke, Wiederaufbau seit 1975 (D) (siehe Ensemble Gendarmenmarkt 1-6)
+Gendarmenmarkt 1-2, Deutscher Dom, 1781-85 Kuppelturm von Karl von Gontard; Neubau der Kirche auf dem ursprünglichen Grundriß Martin Grünbergs (1701-08), 1881-82 von Hude & Hennicke, Wiederaufbau 1975-96 (D) (siehe Ensemble Gendarmenmarkt 1-6)
 (MIT/MITTE-D)
 
 09065015
@@ -16124,11 +16132,11 @@ Kronenstraße 73-74, Wohnhaus, 1893; Umbau 1926
 (MIT/MITTE-D)
 
 09050324
-Kruppstraße 3-4, Kaserne des 1. Garde-Feld-Artillerie-Regiments, Mannschaftsgebäude, 1878-81 von Oskar Appelius, La Pierre, Gustav Voigtel und Otto Heimerdinger; Umbau zur Kriegsakademie, 1934-36 (siehe Ensemble Kruppstraße 3-4...)
+Kruppstraße 4, Kaserne des 1. Garde-Feld-Artillerie-Regiments, Mannschaftsgebäude, 1878-81 von Oskar Appelius, La Pierre, Gustav Voigtel und Otto Heimerdinger; Umbau zur Kriegsakademie, 1934-36 (siehe Ensemble Kruppstraße 4...)
 (MIT/MOABI-D)
 
 09050325
-Kruppstraße 15-16, Kaserne des 1. Garde-Feld-Artillerie-Regiments, Unterkunftshaus, Geschützschuppen, Waffenmeisterwerkstätten, 1887-89 von La Pierre (siehe Ensemble Kruppstraße 3-4...)
+Kruppstraße 15-16, Kaserne des 1. Garde-Feld-Artillerie-Regiments, Unterkunftshaus, Geschützschuppen, Waffenmeisterwerkstätten, 1887-89 von La Pierre (siehe Ensemble Kruppstraße 4...)
 (MIT/MOABI-D)
 
 09050273
@@ -16520,6 +16528,12 @@ Marienstraße 28, Mietshaus, 1840 (D) (siehe Ensemble Marienstraße 1-32)
 
 09095886
 Marienstraße 29, Mietshaus, 1841 (D) (siehe Ensemble Marienstraße 1-32)
+(MIT/MITTE-D)
+
+09075019
+Markgrafenstraße 39-41, Wohnkomplex mit Transformatorenstation, 1985-87 von Manfred Prasser, Matthias Borner (siehe Ensemble Gendarmenmarkt 1-6)
+Französische Straße 27-29
+Jägerstraße 56
 (MIT/MITTE-D)
 
 09075004
@@ -18353,7 +18367,7 @@ Hanseatenweg 1-6
 Joseph-Haydn-Straße
 Klopstockstraße 2, 7-32
 Straße des 17. Juni 100
- (MIT/TIERG-Ga)
+ (MIT/HANSA-Ga)
 
 09010184
 Bergstraße 29, Friedhof II der Sophien-Gemeinde, angelegt 1827 mit Einfriedungsmauer, Grabstätten und Mausoleen; Kapelle, um 1897 (D)
@@ -18426,7 +18440,7 @@ Sophienstraße 2-3
 
 09010004
 Hanseatenweg 10, Gartenhöfe und Außenanlagen der Akademie der Künste, 1960 von Werner Düttmann und Walter Rossow (siehe Baudenkmal Hanseatenweg 10)
-(MIT/TIERG-Ga)
+(MIT/HANSA-Ga)
 
 09010005
 Invalidenstraße 3, Elisabethkirchplatz, ab 1835, 1881 von Hermann Mächtig, seit 1890 Veränderungen (siehe Ensemble Elisabethkirchstraße 1-18, 21 und Baudenkmal Invalidenstraße 3)
@@ -18465,11 +18479,11 @@ Lehrter Straße 5B-D, Beamtenfriedhof vom Zellengefängnis Lehrter Straße, 1842
 (MIT/MOABI-Ga)
 
 09010195
-Liesenstraße 7, Friedhof II der Französisch-reformierten Gemeinde mit Grabstätten, angelegt 1835 und Resten der Grenzmauer
+Liesenstraße 7, Friedhof II der Französisch-reformierten Gemeinde mit Grabstätten, angelegt 1835 und Resten der Grenzmauer (siehe Gesamtanlage Berliner Mauer)
 (MIT/MITTE-Ga)
 
 09010196
-Liesenstraße 8, Friedhof der St.-Hedwigs-Gemeinde, angelegt 1834 (D); mit Grabstätten und Friedhofskapelle, 1866-67, Wiederaufbau 1987
+Liesenstraße 8, Friedhof der St.-Hedwigs-Gemeinde, angelegt 1834 (D); mit Grabstätten und Friedhofskapelle, 1866-67, Wiederaufbau 1987 (siehe Gesamtanlage Berliner Mauer)
 (MIT/MITTE-Ga)
 
 09097834
@@ -19200,6 +19214,16 @@ Planetenstraße 46/48
 Sonnenallee 191/199, Wohnanlagen, 1925-29 von Bruno Möhring und Hans Spitzner, 1938 von Walter Kühling
 (NEU/NEUKÖ-G)
 
+09097893
+Sonnenallee 318-323, 324/334, Highdeck-Siedlung, 1975-84 von Rainer Oefelein, Bernhard Freund, Horst Grünberg
+Fritzi-Massary-Straße 1-21, 23/269
+Heinrich-Schlusnus-Straße 1-5, 7-13, 15/23
+Joseph-Schmidt-Straße 1, 3-23
+Leo-Slezak-Straße 5-28
+Michael-Bohnen-Ring 1-29, 31-33, 35/51, 52-54
+Peter-Anders-Straße 1-24
+(NEU/NEUKÖ-G)
+
 09090426
 Steinbockstraße 1-30, Siedlung am Dammweg, 1919-22 von Zizler, nach Entwurf von Reinhold Kiehl; Mauer zur S-Bahn
 Einhornstraße 5-21
@@ -19349,6 +19373,10 @@ Boddinstraße 59, Wohn- und Geschäftshaus, 1903/04 von Paul Siegenthaler
 Braunschweiger Straße 18, Kath. St.-Richard-Kirche, 1975 von Michael König
 (NEU/NEUKÖ-D)
 
+09090189
+Britzer Damm 139, Wohnhaus und Nebengebäude, 1884
+(NEU/BRITZ-D)
+
 09060068
 Britzer Damm 207, Wohnhaus, 1846 (D)
 (NEU/BRITZ-D)
@@ -19387,6 +19415,10 @@ Donaustraße 83, Fabrikgebäude, 1905-06 von Kurt Berndt
 09090462
 Elbestraße, Toilettenhaus, 1900-10 von Reinhold Kiehl
 Sonnenallee
+(NEU/NEUKÖ-D)
+
+09090190
+Elsenstraße 52, Kistenfabrik Pflugrath, Fabrikgebäude mit Außenaufzug und Büroanbau, Maschinenhaus, Pferdestall und Einfriedung, 1905-06 von Alfred Schrobsdorff
 (NEU/NEUKÖ-D)
 
 09090463
@@ -20641,7 +20673,7 @@ Weitere Bestandteile des Ensembles:
 09085312 - Hauptstraße 39, Hofanlage: Wohnhaus mit Vorgarten und Einfriedung, Scheune, Stall, Mauer, um 1900
 09065183 - Hauptstraße 40/40A, Scheune und Mauer, um 1900
 09085313 - Hauptstraße 41, Wohnhaus mit Einfriedung; Scheune, um 1900
-09040167 - Hauptstraße 43 Wohnhaus mit Einfriedung, um 1885; Werkstatt, um 1940
+09040167 - Hauptstraße 43, Wohnhaus mit Einfriedung, um 1885; Werkstatt, um 1940
 09085314 - Hauptstraße 44, Scheune, um 1900
 09085315 - Hauptstraße 45, ehem. Laufschmiede, um 1820
 09085316 - Hauptstraße 46, Wohnhaus, um 1935; Remise, um 1905
@@ -20691,10 +20723,11 @@ Weitere Bestandteile des Ensembles:
 09050508 - Hauptstraße 55, Wohnhaus mit Vorgarteneinfriedung, 1901 von Julius Schreiber
 09050510 - Hauptstraße 63, ehem. Nervenheilanstalt: Krankengebäude, 1891; Wohnhaus 1897 von P. Moritz; Krankengebäude, 1904 und 1910 von Franz Zwick
 09050511 - Hauptstraße 64, Gaststätte, 1908 von Ignatz Kolb
-09050509 – Parkstraße 1, Wohn- und Wirtschaftsgebäude, 1910 von Schwennicke sowie Hausgarten und Rest des ehemaligen Lennéparks
+09050509 – Parkstraße 1, 15, Wohn- und Wirtschaftsgebäude, 1910 von Schwennicke sowie Hausgarten und Rest des ehemaligen Lennéparks, 1827/29
 09050512 - Parkstraße 12, ehem. Nervenheilanstalt, 1909 von Franz Zwick
 Nicht konstituierende Bestandteile des Ensembles:
 - Hauptstraße 13A, 14A, 17, 18A, 41A, 49, 62
+- Parkstraße 5/11
 (PAN/FRZBU-E)
 
 09050513
@@ -20847,6 +20880,7 @@ Stubnitzstraße 2-24
 Zeiler Weg 1/11, 2, 12-16, 18/46, 21, 27/31 43/45
 Zellinger Weg 11, 12
 Gesamtanlagen siehe: Forchheimer Straße 1/27; Gemündener Straße 1/41; Granitzstraße 9-20; 21-24; 29-32...; Karlstadter Straße 4/6; 8/18; Kissingenplatz 11-13; Kissingenstraße 35-36; Prenzlauer Promenade 129-143
+Baudenkmal siehe: Zeiler Weg 46
 Weitere Bestandteile des Ensembles:
 09050575 - Dettelbacher Weg 2/26 / Kissingenstraße 25-25A / Prenzlauer Promenade 116-128 / Zeiler Weg 28/44, Wohnanlage, 1931-32 von Paul Mebes
 09050576 - Dettelbacher Weg 9/25, 30/50 / Haßfurter Weg 1/17, 4/18 / Kissingenstraße 26-27A / Prenzlauer Promenade 107/115 / Retzbacher Weg 40/56 / Zeiler Weg 20/26, 27/31, 43, 45, Wohnanlage, um 1935
@@ -22352,6 +22386,11 @@ Alt-Karow 53-54, Wohnhaus, Scheune und Stall, um 1885 (D) (siehe Ensemble Alt-Ka
 Alt-Karow 59, Hofanlage: Wohnhaus, Scheune, Stall, Einfriedung und Hofpflasterung, 1893 (siehe Ensemble Alt-Karow 1-61)
 (PAN/KAROW-D)
 
+09085376
+Am Graben 35 (KGA Märchenland, Parzelle 602), Standrohr des Rieselfeldes Malchow, 1881
+Schneewittchenweg 17
+(PAN/STAMA-D)
+
 09030237
 Am Iderfenngraben 10, Wohnhaus, 1895-1900
 (PAN/NIEDS-D)
@@ -22369,7 +22408,7 @@ Am Schloßpark 20, Wohnhaus, um 1890, Fassadenrekonstruktion um 1978 (D)
 (PAN/PANKO-D)
 
 09050101
-Am Schweizer Garten 75, 76/84, Schneiders Brauerei, 1892-93 von A. Rohmer
+Am Schweizer Garten 75, 76/84, Schneiders Brauerei, 1892-93 von A. Rohmer (siehe Ensemble Greifswalder Straße 9-25…)
 (PAN/PRENZ-D)
 
 09030600
@@ -22817,7 +22856,7 @@ Grabbeallee 63, Mietshaus, um 1890
 (PAN/NIEDS-D)
 
 09030236
-Grabbeallee 67, Vorstadtvilla mit Vorgarten, um 1885 (D)
+Grabbeallee 67, Vorstadtvilla mit Vorgarten, um 1873 (D)
 (PAN/NIEDS-D)
 
 09070263
@@ -23608,6 +23647,10 @@ Schulzestraße 40, Wohnhaus, um 1905 (D)
 Schwanebecker Chaussee 3, Landarbeiterkaserne, 1890
 (PAN/BUCH-D)
 
+09085362
+Schwarzwassersee, Standrohr des Rieselfeldes Blankenfelde, um 1885
+ (PAN/BLANF-D)
+
 09095460
 Schwedter Straße 261-262, Mietshaus und Fachwerkremise, 1863-64; Tankstelle 1928 (siehe Ensemble Christinenstraße 4...)
 Templiner Straße 19
@@ -23689,10 +23732,6 @@ Tino-Schwierzina-Straße 81B, 82 (Heinersdorf), Bauernhaus, um 1880
 09040358
 Tino-Schwierzina-Straße 83 (Heinersdorf), Bauernhaus, um 1880
 (PAN/HEIND-D)
-
-09050454
-Topsstraße, Gedenkstätte Einsame Pappel mit Pappel, Begrenzungsmauer, Gedenkplatte und Freifläche, 1968
-(PAN/PRENZ-D)
 
 09050113
 Torstraße 1, Kredit-Warenhaus der Jonaß & Co. AG, 1927-29 von Gustav Bauer und S. Friedländer
@@ -23843,6 +23882,10 @@ Wörther Straße 38, Mietshaus , um 1875 (D) (siehe Ensemble Kollwitzstraße 60.
 09095575
 Zehdenicker Straße 2, Mietshaus, 1885 von Otto Meyer (siehe Ensemble Christinenstraße 4...)
 (PAN/PRENZ-D)
+
+09095529
+Zeiler Weg 46, Zivilschutz-Mehrzweckanlage SBW 300, 1962-65 (siehe Ensemble Kissingenstraße 21A-32...)
+(PAN/PANKO-D)
 
 09090544
 Zelterstraße 13, Neuapostolische Kirche und Gemeindehaus, 1933-34 von Nerlich
@@ -24067,6 +24110,10 @@ Friesenstraße
 Waldsteg 64-65
 (PAN/NIEDS-Ga)
 
+09050454
+Topsstraße, Gedenkstätte Einsame Pappel mit Pappel, Hochbeet, Gedenkplatte und Freifläche, 1950er Jahre, 1967, 1986/88
+(PAN/PRENZ-Ga)
+
 09085055
 Tschaikowskistraße 3, Vorplatz und Garten des Apartmentgebäudes, 1966-68 von Karl Kirschner (D) (siehe Ensemble Am Schloßpark und Gesamtanlage Ossietzkystraße 44, 45)
 (PAN/NIEDS-Ga)
@@ -24120,10 +24167,6 @@ Alt-Buch 74, Reste eines Urnengräberfeldes der Jüngeren Bronzezeit (1200-800 v
 Burgwallstraße 76-77, Slawischer Burgwall mit Vorburgsiedlung, 8.-10. Jh., mind. zweiphasig
 (PAN/BLANB-B)
 
-09097765
-Damerowstr. 58a, Schleifsteine, 19./20. Jh.
-(PAN/PANKO-B)
-
 09097771
 Galenusstraße 61-63D, Vogelfanganlage mit umgebendem Wassergraben, Frühe Neuzeit (16. Jh.)
 (PAN/PANKO-B)
@@ -24141,7 +24184,7 @@ Schönerlinder Straße, Gemarkung Pankow, Flur 2, Flurstück 3816 (Pyrotechnik),
 (PAN/PANKO-B)
 
 09090063
-Schönerlinder Straße, Gemarkung Buch, Flur 37 Flurstück 6 und Flur 50 Flurstück 3, Siedlung der jüngeren Bronzezeit, Fundstelle 1549
+Schönerlinder Straße, Gemarkung Pankow, Flur 37 Flurstück 6 und Flur 50 Flurstück 3, Siedlung der jüngeren Bronzezeit, Fundstelle 1549
 (PAN/BUCH-B)
 
 
@@ -24285,7 +24328,11 @@ Weitere Bestandteile des Ensembles:
 (REI/HERMD-E)
 
 09012530
-Berliner Straße 19-37, Werksanlage Borsigwerke mit Germaniahalle, 1872, und Borsighafen; verschiedene Werkhallen, Werkstor und Verwaltungsgebäude, 1898-99; 1912-24 und 1934-41; 1926-37; Resten der Bahnanlagen und Einfriedungen
+Berliner Straße 24-37, Werksanlage Borsigwerke mit Germaniahalle, 1872, und Borsighafen; verschiedene Werkhallen, Werkstor und Verwaltungsgebäude, 1898-99; 1912-24 und 1934-41; 1926-37; Resten der Bahnanlagen und Einfriedungen
+Am Borsigturm 1-172
+Egellstraße 21
+Neheimer Straße 56/60
+Sterkrader Straße 49/59
 Gesamtanlage siehe: Berliner Straße 24-37
 Baudenkmale siehe: Egellsstraße 21, Sterkrader Straße 49/59
 (REI/TEGEL-E)
@@ -24607,10 +24654,10 @@ Kehrwieder 1-2
 (REI/TEGEL-G)
 
 09011801
-Am Schäfersee 21/67, Wohnanlage, 1930-31 von Fritz Beyer
+Am Schäfersee 21/67, Wohnanlage, 1930-31 von Fritz Beyer (siehe Gartendenkmal Am Schäfersee)
 Brienzer Straße 42/56
 Holländerstraße 11-16
-(REI/REIND-G)
+(REI/REIND-G) 
 
 09097874
 Am Tegeler Hafen 2/6, 8/44, IBA-Gebiet am Tegeler Hafen, 1985-88 (siehe Gartendenkmal Am Tegeler Hafen 2/6, 8/44)
@@ -24661,7 +24708,7 @@ Buddestraße 6, 135 m langes Teilstück der Berliner Mauer mit Sperreinrichtunge
 (REI/REIND-G)
 
 09011842
-Berliner Straße 19-37, Borsigwerke, mit Verwaltungsgebäude (Berliner Straße 25A-26B), Werkhallen (Am Borsigturm 2/10, 19), Werkstor, Industriebahn und Einfriedung, 1898-99 von Reimer & Körte; Werkhallen und Erweiterungen des Verwaltungsgebäudes, 1912-17 (Am Borsigturm 80/82, 100, 156) und Berliner Straße 26B); Erweiterungen des Verwaltungsgebäudes (Berliner Straße 25), Wagenhalle und Werkhallen (Am Borsigturm 160, 170, 172; westlich Egellsstraße 21), 1919-22; „Borsigturm“ Bürohochhaus (Am Borsigturm 11, 35), Lohnbüro und Kantine (Berliner Straße 36), 1922-24 von Eugen Schmohl mit A. Hillenbrand; Erweiterungen 1934-36 mit Werkhallen (Am Borsigturm 160, 100 / Ecke Veitstraße, Anbauten westlich Egellsstraße 21) und Schalthaus (Am Borsigturm 84); 1935-40 Erweiterungen Verwaltungsgebäude (Berliner Straße 25, 35, 37) (D), (siehe Ensemble Berliner Straße 24-37)
+Berliner Straße 19-37, Borsigwerke, Verwaltungsgebäude (Berliner Straße 25A-26B), Werkhallen (Am Borsigturm 2/10, 19), Werkstor, Industriebahn und Einfriedung, 1898-99 von Reimer & Körte; Werkhallen (Am Borsigturm 80/82, 100, 156) und Erweiterungen des Verwaltungsgebäudes (Berliner Straße 26B), 1912-17; Erweiterungen des Verwaltungsgebäudes (Berliner Straße 25), Wagenhalle und Werkhallen (Am Borsigturm 160, 170, 172; westlich Egellsstraße 21), 1919-22; „Borsigturm“ Bürohochhaus (Am Borsigturm 11, 35), Lohnbüro und Kantine (Berliner Straße 36), 1922-24 von Eugen Schmohl mit A. Hillenbrand; Erweiterungen 1934-36 mit Werkhallen (Am Borsigturm 160, 100 / Ecke Veitstraße, Anbauten westlich Egellsstraße 21) und Schalthaus (Am Borsigturm 84); 1935-40 Erweiterungen Verwaltungsgebäude (Berliner Straße 25, 35, 37) (D) (siehe Ensemble Berliner Straße 24-37)
 Am Borsigturm 1-172
 Egellsstraße 21
 Veitstraße
@@ -24968,7 +25015,7 @@ Olbendorfer Weg 16/20
 (REI/WITTN-G)
 
 09012240
-Provinzstraße 40-41, 42-42B, 44-44A, Ostdeutsche Spritfabrik GmbH, Produktions- und Hallengebäude, 1899-1900 von Alterthum & Zadek, Verwaltungs- und Wohngebäude, um 1924, Wirtschaftsgebäude, 1952-54 von F. Heinrich, Kühlturm, 1954 von Stillich & Schmöcker
+Provinzstraße 40-41, 42-42B, 44-44A, Ostdeutsche Spritfabrik GmbH, Produktions- und Hallengebäude, 1899-1900 von Alterthum & Zadek, Verwaltungs- und Wohngebäude, um 1924, Wirtschaftsgebäude, 1952-54 von F. Heinrich, Sockel von Kühlturm, 1954 von Stillich & Schmöcker, mit Pförtnerhaus, Einfriedung, Eisenbahnschienen, Pflasterflächen
 (REI/REI-G)
 
 09012250
@@ -25154,7 +25201,7 @@ Thurbrucher Steig 2/10
 Baudenkmale
 
 09097773
-A 113 (Höhe Regenwalder Weg), Bärenskulptur, 1983 von Günter Anlauf
+A 111 (Höhe Regenwalder Weg), Bärenskulptur, 1983 von Günter Anlauf
 (REI/HEILS-D)
 
 09011639
@@ -26431,7 +26478,7 @@ Jostweg 13, Kupfer-Castell, Wohnhaus, 1931 von der Hirsch Kupfer und Messingwerk
 (REI/FROHN-D)
 
 09012082
-Junostraße 7-7A, Hermsdorfer Ton- und Zementwarenfabrik (Restaurant Seeschloß), Wohnhaus mit Saalbau, Fabrikgebäude mit Schornstein und Brennofen, 1860er, 1880er und 1890er Jahre (D)
+Junostraße 6H-6G, 7A, Hermsdorfer Ton- und Zementwarenfabrik (Restaurant Seeschloß), Wohnhaus mit Saalbau, Fabrikgebäude mit Schornstein und Brennofen, 1860er, 1880er und 1890er Jahre (D)
 (REI/HERMD-D)
 
 09012083
@@ -27227,7 +27274,7 @@ Schönfließer Straße 12A, ehem. HJ-Heim Frohnau (Jugendfreizeitheim), 1939 von
 (REI/FROHN-D)
 
 09012338
-Schönfließer Straße 18/20, Haus Salzenbrodt, 1937 Doppelwohnhaus von Walther Bünte, 1968-69 Umbau zu einem Einfamilienwohnhaus von Werner Düttmann
+Schönfließer Straße 18/20, Haus Hans Salzenbrodt, 1937 Doppelwohnhaus von Walther Bünte, 1968-69 Umbau zu einem Einfamilienwohnhaus von Werner Düttmann
 (REI/FROHN-D)
 
 09012339
@@ -27519,6 +27566,10 @@ Wachsmuthstraße 3, Mietshaus, 1891 von G. Müller
 Wachsmuthstraße 25, Ev. Apostel-Paulus-Kirche mit Gemeindehaus und Kindergarten, 1934-35 von Otto Risse, 1937 Erweiterung des Gemeindehauses von Otto Risse
 Schloßstraße
 (REI/HERMD-D)
+
+09020012
+Wachstraße 4, Haus Ilse Salzenbrodt, Wohnhaus mit Beeten, Einfassungen, Bodenbelägen und Leuchten im Außenbereich, 1962-63 von Werner Düttmann
+(REI/TEGEL-D)
 
 09012422
 Wahnfriedstraße 1, Haus Franke, 1909 von Paul Poser
@@ -27817,7 +27868,7 @@ Am Rathauspark, Rathauspark, Öffentliche Grünanlage, um 1934
 (REI/WITTN-Ga)
 
 09046223
-Am Schäfersee, Öffentliche Grünanlage, 1922-28 von Karl Löwenhagen
+Am Schäfersee, Öffentliche Grünanlage, 1922-28 von Karl Löwenhagen (siehe Gesamtanlage Am Schäfersee 21/67)
 (REI/REIND-Ga)
 
 09097887
@@ -27947,7 +27998,6 @@ Reiherwerder, Villengarten Borsig, Villengarten, 1913 von Jürgens (?) und Körn
 
 09046248
 Roedernallee, Kienhorstpark, 1931-32 von Franz Kuhrt
-Veltener Straße
 (REI/REIND-Ga)
 
 09046249
@@ -28143,8 +28193,8 @@ Weitere Bestandteile des Ensembles:
 
 09085632
 Jüdenstraße 40, 42, 43, 47, 51, 53, Wohnhäuser
-Viktoria-Ufer 4
-Baudenkmale siehe: Jüdenstraße 40, 42, 47, 51, 53; Viktoria-Ufer 4
+Viktoriaufer 4
+Baudenkmale siehe: Jüdenstraße 40, 42, 47, 51, 53; Viktoriaufer 4
 Weiterer Bestandteil des Ensembles:
 09085638 - Jüdenstraße 43, Wohnhaus, 1869
 (SPA/SPAND-E)
@@ -28441,7 +28491,7 @@ Sigmund-Bergman-Straße
 
 09085642
 Jüdenstraße 9/15, Wohnungsbauten Moritzkaserne, 1920-22 von Karl Elkart; mit Gasleuchten auf Jüdenstraße
-Viktoria-Ufer 20-23
+Viktoriaufer 20-23
 (SPA/SPAND-G)
 
 09085643
@@ -28545,11 +28595,11 @@ Grüner Wall 2 und angrenzendes Straßenland
 09085760
 Rohrdamm 32-33D, Siedlung Heimat, Wohnanlage mit Postgebäude, 1929-33 von Hans Hertlein, einschließlich der öffentlichen und gemeinschaftlichen Frei- und Grünflächen, von Georg Béla Pniower in Zusammenarbeit mit Leberecht Migge, mit pflanzlichen und baulichen Bestandteilen, Wege- und Platzsystem, Ausstattungsgegenständen und Bodenmodellierungen, ursprüngliche und überlieferte Anlage der Mietergärten sowie Beleuchtung im Straßenraum (D)
 Goebelstraße 117/125, 129/137
-Jungfernheideweg 17/19
+Jungfernheideweg 17, 49/57
 Lenther Steig 9-24
 Natalissteig 1, 3-29
 Quellweg 38/44, 45-69, 71/75
-Schuckertdamm 307/309, 312/334, 333, 342/386
+Schuckertdamm 307, 312/334, 333, 342/386
 Schuckertplatz 1-9
 Schwiegersteig 1-2, 4-6, 8-12, 14-18, 20-22, 24-28
 (SPA/SIEME-G)
@@ -29754,7 +29804,7 @@ Moritzstraße 3, Mietshaus, 1899-1900
 
 09085689
 Moritzstraße 17, Gottfried-Kinkel-Schule, 1885 von Friedrich Paul, erweitert 1936
-Viktoria-Ufer 18-19
+Viktoriaufer 18-19
 (SPA/SPAND-D)
 
 09080571
@@ -30261,16 +30311,16 @@ Unnaer Straße 38, Einfamilienhaus mit Terrasse in der Siedlung „Falkenhagener
 (SPA/FALFE-D)
 
 09085827
-Viktoria-Ufer, Alte Stadtmauer, 1. Hälfte 14. Jh. (D)
+Viktoriaufer, Alte Stadtmauer, 1. Hälfte 14. Jh. (D)
 Jüdenstraße
 (SPA/SPAND-D)
 
 09085636
-Viktoria-Ufer 4, Wohnhaus, 1. Hälfte bis Mitte 19. Jh.; Seitenflügel um 1890 (D) (siehe Ensemble Jüdenstraße 40-43...)
+Viktoriaufer 4, Wohnhaus, 1. Hälfte bis Mitte 19. Jh.; Seitenflügel um 1890 (D) (siehe Ensemble Jüdenstraße 40-43...)
 (SPA/SPAND-D)
 
 09085828
-Viktoria-Ufer 17, Wohnhaus, 1. Hälfte 19. Jh und Ende 19. Jh (D)
+Viktoriaufer 17, Wohnhaus, 1. Hälfte 19. Jh und Ende 19. Jh (D)
 Moritzstraße 7
 (SPA/SPAND-D)
 
@@ -30285,6 +30335,10 @@ Waldallee 64, Landhaus Massolle, um 1930 von Otto v. Estorff und Gerhard Winkler
 09085832
 Wasserstraße 4, Mietshaus, um 1860
 (SPA/SPAND-D)
+
+09096044
+Weinmeisterhornweg 31, Haus Vogel, Wohnhaus und Bodenbelägen im Außenbereich, 1966-67 von Werner Düttmann
+(SPA/WILST-D)
 
 09085833
 Weinmeisterhornweg 123, Wohnhaus mit Stall und Scheune, 1894-1914
@@ -30520,7 +30574,7 @@ Krowelstraße 54
 (SPA/SPAND-B)
 
 09080635
-Viktoria-Ufer (südlich von Nr. 23), Friedhof und Fundamentreste der ehemaligen Moritzkirche, 15.-17. Jh.
+Viktoriaufer (südlich von Nr. 23), Friedhof und Fundamentreste der ehemaligen Moritzkirche, 15.-17. Jh.
 Jüdenstraße
 (SPA/SPAND-B)
 
@@ -32145,6 +32199,10 @@ Biesestraße 7/9, Städtisches Seniorenwohnheim, 1956-61 von der Entwurfsabteilu
 Johannesstraße 22
 (STE-ZEH/ZEHLD-G)
 
+09096048
+Bismarckstraße 30, Wohnpark Kleiner Wannsee, Mehrfamilienhaus mit Grünanlage, Swimmingpool, Zufahrt und  Grundstückseinfassung, 1973-74 von Werner Düttmann
+ (STE-ZEH/WANNS-G)
+
 09065486
 Bismarckstraße 34-36, Appartementhaus und Wohnanlage, 1958-59 von Max Taut (D)
 Lauenburger Straße
@@ -32352,6 +32410,11 @@ Hindenburgdamm 5A-6, Solbad Lichterfelde, 1892 von M. Ewatz
 Hindenburgdamm 24-25, Doppelmietshaus, 1873 von Albert Biebendt (siehe Ensemble Hindenburgdamm 24-25...)
 (STE-ZEH/LIFEL-G)
 
+09070020
+Hindenburgdamm 27, Institut für Hygiene und Mikrobiologie, Institutsgebäude mit Rampe, Vorplatz, staßenbegleitender Einfassung, Grünanlage und Verbindungsgang zu den Zentralen Tierlaboratorien, 1969-74 von Hermann Fehling und Daniel Gogel
+Krahmerstraße
+(STE-ZEH/LIFEL-G)
+
 09065347
 Hindenburgdamm 30, Klinikum Steglitz der Freien Universität, 1961-68 von Curtis & Davis und Franz Mocken
 (STE-ZEH/LIFEL-G)
@@ -32410,6 +32473,10 @@ Falkenried 2/20
 Hohe Ähren 1/9
 (STE-ZEH/DAHLE-G)
 
+09090006
+Im Kieferngrund 2-10, Siedlung Im Kieferngrund, 1922/23 von Adolf Sommerfeld
+Onkel-Tom-Straße 64/64A
+(STE-ZEH/ZEHLD-G) 
 
 09080133
 Im Mühlenfelde 1/5, Postsiedlung, 1930-31 von Nissle
@@ -32499,11 +32566,11 @@ Königin-Luise-Straße 88/98, Schüler-Kolonie-Dahlem, Internatsgebäude, 1906-1
 (STE-ZEH/DAHLE-G)
 
 09075492
-Königstraße 36B, Jagdschloss Glienicke, Schloss, seitliche Portalgruppe, Marstall und Kavalierhaus, 1682-84 von Charles Philippe Dieussart (?); Umbau 1859-62 von Ferdinand von Arnim; Erweiterung und Umbau, 1889-92 von Albert Geyer, Erweiterung und Umbau, 1962-64 von Max Taut (D) (siehe Gartendenkmal Königstraße 35B-E, 36, 36B, 36E)
+Königstraße 36B, Jagdschloss Glienicke, Schloss, seitliche Portalgruppe, Marstall und Kavalierhaus, 1682-84 von Charles Philippe Dieussart (?); Umbau 1859-62 von Ferdinand von Arnim; Erweiterung und Umbau, 1889-92 von Albert Geyer, Erweiterung und Umbau, 1962-64 von Max Taut (D) (siehe Gartendenkmal Königstraße 35B-36E)
 (STE-ZEH/WANNS-G)
 
 09075491
-Königstraße 35B-E, 36, Schloss Glienicke, Kasino, Kleine Neugierde, Schloss, Kavalierhaus, Remise mit Turm, Jägerhof, Große Neugierde, Hofgärtner- und Dampfmaschinenhaus, Löwenfontäne, Orangerie mit Gewächshäusern, Stibadium, Pforte, Mauer und Ädikulanische Treppe mit Sphingen, Teufelsbrücke, Matrosenhaus, Töpferbrücke, Hirschtor und Mauer, Jägertor, zwei Stege im Verlauf des Havelweges, Wirtschaftshof, Pförtnerhaus, Klosterhof, Wildparktor- und Obertorhaus, Johannitertor, 1824-62, im wesentlichen von Karl Friedrich Schinkel und Ludwig Persius (D) (siehe Gartendenkmal Königstraße35B-E, 36, 36B, 36C)
+Königstraße 35B-36A, Schloss Glienicke, Kasino, Kleine Neugierde, Schloss, Kavalierhaus, Remise mit Turm, Jägerhof, Große Neugierde, Hofgärtner- und Dampfmaschinenhaus, Löwenfontäne, Orangerie mit Gewächshäusern, Stibadium, Pforte, Mauer und Ädikulanische Treppe mit Sphingen, Teufelsbrücke, Matrosenhaus, Töpferbrücke, Hirschtor und Mauer, Jägertor, zwei Stege im Verlauf des Havelweges, Wirtschaftshof, Pförtnerhaus, Klosterhof, Wildparktor- und Obertorhaus, Johannitertor, 1824-62, im wesentlichen von Karl Friedrich Schinkel und Ludwig Persius (D) (siehe Gartendenkmal Königstraße 35B-36C)
 Nikolskoer Weg 3
 (STE/ZEH-ZEH/WAN-G)
 
@@ -33012,7 +33079,7 @@ Am Birkenhügel 8, Wohnhaus, 1927 von Paul Lewy
 (STE-ZEH/WANNS-D)
 
 09075590
-Königstraße 36C, Loggia Alexandra, 1869-70 von Alexander Gilli und Ernst Petzholtz (D) (siehe Gartendenkmal Königstraße 35B-E, 36B, 36C)
+Königstraße 36C, Loggia Alexandra, 1869-70 von Alexander Gilli und Ernst Petzholtz (D) (siehe Gartendenkmal Königstraße 35B-36C)
 (STE-ZEH/WANNS-D)
 
 09075293
@@ -34259,6 +34326,10 @@ Straße zum Löwen 8
 Hermannstraße 14, Haus Perls, Wohnhaus, 1911 und Museumsanbau, 1928 von Ludwig Mies van der Rohe (D)
 (STE-ZEH/ZEHLD-D)
 
+09090188
+Herwarthstraße 1, Landhaus Eggebrecht, 1896 von Otto Stahn, Erweiterungen 1920er Jahre; Garage, 1921 (siehe Gartendenkmal Herwarthstraße 1)
+(STE-ZEH/WANNS-D)
+
 09055139
 Hildburghauser Straße 224/228, Coca-Cola, Verwaltungs- und Fabrikgebäude, 1957-58 von Hans Simon
 (STE-ZEH/LIFEL-D)
@@ -35237,7 +35308,7 @@ Moltkestraße 27, Mietshaus, 1893-94 von Wilhelm Schwerdtfeger
 (STE-ZEH/LIFEL-D)
 
 09065984
-Moltkestraße 36, Mietshaus, 1901-02 von August Hausherr
+Moltkestraße 36, Mietshaus, Remise und Einfriedung, 1901-02 von August Hausherr, Remise erweitert 1905
 (STE-ZEH/LIFEL-D)
 
 09065992
@@ -36879,7 +36950,7 @@ Straße zum Löwen 8
 (STE-ZEH/WANNS-Ga)
 
 09045945
-Herwarthstraße 1, Garten Koch/Eggebrecht, 1896 von Ernst Klaeber, Umgestaltung 1911 von Willy Lange
+Herwarthstraße 1, Garten Koch/Eggebrecht, 1896 von Ernst Klaeber, Umgestaltung 1911 von Willy Lange (siehe Baudenkmal Herwarthstraße 1)
 (STE-ZEH/WANNS-Ga)
 
 09046290
@@ -37027,7 +37098,7 @@ Königin-Luise-Straße 57, Städtischer Friedhof Dahlem, 1908, 1929 von Max Diet
 (STE-ZEH/DAHLE-Ga)
 
 09046368
-Königstraße 35B-E, 36, 36B, 36C, Glienicker Parkanlagen, öffentliche Parkanlagen mit Schlosspark Glienicke; Pleasureground, 1816 von Peter Joseph Lenné; Erweiterungen 1824-45 von Peter Joseph Lenné, seit 1845 von Prinz Carl; Veränderungen 1939; Wiederherstellung seit 1979 (D); Jagdschlosspark, 1859-62 von Peter Joseph Lenné (?) und Prinz Carl; Wiederherstellung seit 1985 (D); Böttcherberg, seit 1804, seit den 1840er Jahren von Peter Joseph Lenné und Prinz Carl, Wiederherstellung seit 1979 (D) (siehe Gesamtanlagen Königstraße 35B-E, 36; 36B und Baudenkmal Königstraße 36C)
+Königstraße 35B-36C, Glienicker Parkanlagen, öffentliche Parkanlagen mit Schlosspark Glienicke; Pleasureground, 1816 von Peter Joseph Lenné; Erweiterungen 1824-45 von Peter Joseph Lenné, seit 1845 von Prinz Carl; Veränderungen 1939; Wiederherstellung seit 1979 (D); Jagdschlosspark, 1859-62 von Peter Joseph Lenné (?) und Prinz Carl; Wiederherstellung seit 1985 (D); Böttcherberg, seit 1804, seit den 1840er Jahren von Peter Joseph Lenné und Prinz Carl, Wiederherstellung seit 1979 (D) (siehe Gesamtanlagen Königstraße 35B-36A; 36B und Baudenkmal Königstraße 36C)
 Nikolskoer Weg 3
 (STE-ZEH/WANNS-Ga)
 
@@ -37084,7 +37155,7 @@ Manteuffelstraße 23A-B, Vorgarten, 1913
 (STE-ZEH/LIFEL-Ga)
 
 09046303
-Marienplatz, Stadtplatz, 1869 und 1894-95, 1981 wiederhergestellt
+Marienplatz, Stadtplatz, 1869 und 1894-95, 1983 wiederhergestellt
 (STE-ZEH/LIFEL-Ga)
 
 09045973
@@ -37293,6 +37364,14 @@ Veronikasteig 4, Vorgarten, 1906-08 (siehe Ensemble Lindenthaler Allee 5 und Bau
 (STE-ZEH/ZEHLD-Ga)
 
 
+Bodendenkmale
+
+09096047
+Rappoltsweilerstraße 16/20, Teilfläche einer Siedlung der jüngeren Vorrömischen Eisenzeit/ältere Römischen Kaiserzeit
+Sundgauer Straße 34
+(STE-ZEH/ZEHLD-B)
+
+
 
 
 Tempelhof-Schöneberg
@@ -37332,7 +37411,8 @@ Buckower Chaussee 80-84C
 Motzener Straße 2
 Nahmitzer Damm 25-25A
 Säntisstraße 181-183
-Baudenkmale siehe: Alt-Marienfelde, Dorfkirche; 2; 12/12A; 17/21; 21A; 23; 24; 25; 26; 27; 28; 31; 35/37; 38; 41; 49
+Baudenkmale siehe: Alt-Marienfelde, Dorfkirche; 2; 12/12A; 21A; 23; 24; 25; 26; 27; 28; 31; 35/37; 38; 41; 49
+Gesamtanlage siehe: 17/21
 Gartendenkmale siehe: Alt-Marienfelde, Dorfanger und Dorfkirchhof; 1-15; 25
 Konstituierende Bestandteile des Ensembles:
 09030121- Alt-Marienfelde 4, Wohnhaus, 1925-26 von Emil Seffert
@@ -37611,6 +37691,10 @@ Lankwitzer Straße 45-54, 56-57
 Alt-Lichtenrade 97, Feuerwache mit Pferdestall, Nebengebäuden und Steigeturm, 1909-10 von Friedrich Eckler (D) (siehe Ensemble Alt-Lichtenrade 97/99...)
 Im Domstift 20
 (TEM-SCH/LIRAD-G)
+
+09030127
+Alt-Marienfelde 17/21, Gut Marienfelde, Amtshaus, vor 1832, Umbau 1871, 1930; Gutshaus, 1832, 1859 von Julius Hornitz, Umbau 1859/71; Scheunenturm, vor 1864; Schafstall, vor 1864, Umbau 1903, 1921; Pferdestall, 1871; Inspektorenhaus, 1889; östliches Stallgebäude, 1898/99 (D); mit Einfriedung und Hoftoranlage (siehe Ensemble Alt-Marienfelde 1-50)
+(TEM-SCH/MARFE-G)
 
 09075185
 Alt-Tempelhof 46/52, Wohnanlage, 1905-07 von Paul Kolb (siehe Gartendenkmal Alt-Tempelhof 46/52)
@@ -37902,8 +37986,8 @@ Stegerwaldstraße 46/48
 (TEM-SCH/MARFE-G)
 
 09097759
-Marienfelder Allee 66-80, Notaufnahmelager Marienfelde, 1952-53 von der Senatsverwaltung für Bau- und Wohnungswesen
-Kaiserallee 36/40
+Marienfelder Allee 66/80, Notaufnahmelager Marienfelde, 1952-53 von der Senatsverwaltung für Bau- und Wohnungswesen
+Kaiserallee 36/44
 (TEM-SCH/MARFE-G)
 
 09055132
@@ -38234,10 +38318,6 @@ Säntisstraße 182
 
 09030124
 Alt-Marienfelde 12/12A, Kossätenhaus, Ende 18. Jh., erweitert Mitte 19. Jh.; Scheune, 1867 (D) (siehe Ensemble Alt-Marienfelde 1-50) 
-(TEM-SCH/MARFE-D)
-
-09030127
-Alt-Marienfelde 17/21, Gut Marienfelde, Gutshaus, 1832, 1859 von Julius Hornitz, nach 1859; Inspektorenhaus, 1889; Wirtschaftsgebäude (D) (siehe Ensemble Alt-Marienfelde 1-50)
 (TEM-SCH/MARFE-D)
 
 09030130
@@ -40600,7 +40680,7 @@ Viktoria-Luise-Platz
 (TEM-SCH/SCHÖN-D)
 
 09095581
-Viktoria-Luise-Platz 9, Wohn- und Geschäftshaus (Portal, Vestibül, Treppenhaus; Festsaal eines ehemaligen Restaurants mit Nebenräumen), 1901-02 von Boswau & Knauer
+Viktoria-Luise-Platz 9, Wohn- und Geschäftshausm mit Restaurantfestsaal, 1901-02 von Boswau & Knauer
 Motzstraße 55
 (TEM-SCH/SCHÖN-D)
 
@@ -40917,7 +40997,7 @@ Schaffhausener Straße 1/71,
 (TEM-SCH/TEMPH-Ga)
 
 09046272
-Parkstraße 5, Alter Dorfkirchhof, um 1200, mit Einfriedung und Grabstätten des 19. Jahrhunderts, nach 1956 verändert (siehe Baudenkmal Parkstraße 5)
+Parkstraße 5, Alter Dorfkirchhof, um 1200, mit Einfriedung und Grabstätten des 19. Jahrhunderts, nach 1956 verändert (siehe Baudenkmal Parkstraße 5)
 (TEM-SCH/TEMPH-Ga)
 
 09046603
@@ -41091,7 +41171,6 @@ Konstituierende Bestandteile des Ensembles:
 09095611 - Katzengraben 13, Mietshaus, 1901-02 von Fahner und Linse
 09095613 - Katzengraben 15, Mietshaus, (rechts) 1900 von Friedrich Lahne, (links) 1890 von F. Hinze
 09095614 - Katzengraben 17, Mietshaus 1846 von Thiele Sen.; Wäscherei und Pferdestall, 1908 von L. Nathan
-09095616 - Katzengraben 20, Mietshaus, um 1900
 09095617 - Kietzer Straße 3, Wohn- und Geschäftshaus, 1884-85 von Friedrich Lahne
 09095619 - Kietzer Straße 5, Wohn- und Geschäftshaus, um 1890
 09095620 - Kietzer Straße 6, Wohnhaus, 1843 von G. Thiele, Umbau und Modernisierung 1985
@@ -41251,7 +41330,7 @@ Konstituierende Bestandteile des Ensembles:
 09095757 - Bölschestraße 43, Wohnhaus, 1872-74 von William Müller & Fr. Sydow
 09095758 - Bölschestraße 44, Mietshaus, 1889 von E. Schrammer
 09095759 - Bölschestraße 45, Wohnhaus, 2. Viertel 19. Jh., Umbau 1870 von William Müller
-09095760 - Bölschestraße 46, Wohnhaus, 1880 von F. Hinze
+09095760 - Bölschestraße 46, Wohnhaus und linkes Hofgebäude, 1880, Hühnerhaus, 1892 von F. Hinze; rechter Seitenflügel, 1896 von Reinhold Hinze
 09095761 - Bölschestraße 47, Mietshaus, 1895-96 von Reinhold Hinze
 09095762 - Bölschestraße 48, Mietshaus, 1896 von Reinhold Hinze
 09095763 - Bölschestraße 49, Wohn- und Geschäftshaus mit Seitenflügel, um 1895
@@ -41508,7 +41587,7 @@ Weitere Bestandteile des Ensembles:
 09097823 - Regattastraße 211, Bootshaus West, 1934-35 von Herbert Ruhl 
 09097824 - Regattastraße 217, Bootshaus Mitte, 1951-52 von Ministerium für Aufbau, Projektierungsbüro Berlin
 09097825 - Regattastraße 223, Bootshaus Ost, 1934-35 von Herbert Ruhl
-09097826 - Regattastraße, Kassenhaus, 1936
+09097826 – Regattastraße 191, Kassenhaus, 1936
 09097827 - Regattastraße, Zielhaus, 1989-90
 09097828 - Regattastraße, Anzeigetafel, 1989-90
 (TRE-KÖP/GRÜNA-E)
@@ -41584,7 +41663,7 @@ Konstituierende Bestandteile des Ensembles:
 09045709 - Scharnweberstraße 78, Wohnhaus mit Einfriedung, 1890
 09045710 - Scharnweberstraße 79, Wohnhaus mit Einfriedung, 1904 von Reinhold Hinze
 09045711 - Scharnweberstraße 80, Wohnhaus, 1889; Gaststätte, 1894-95, 1911 erweitert
-09045712 - Scharnweberstraße 81-82, Mietshaus, 1907-1909 von H. Loewenthal
+09045712 - Scharnweberstraße 81-82, Mietshaus, 1907-09 von H. Loewenthal
 09045713 - Scharnweberstraße 85-85E, Wohnhaus, 1883 von H. Lerche, mit Nebengebäuden, 1884, Umbau 1902, Einfriedung, 1902 
 09045714 - Scharnweberstraße 86, Wohnhaus, 1895 von Gebr. Thieme
 09045715 - Scharnweberstraße 88, Wohnhaus, 1888, Seitengebäude, 1890
@@ -41658,7 +41737,7 @@ Weiterer Bestandteil des Ensembles:
 
 09045233
 Sterndamm 84-88/90, Platzumbauung und Platzanlage, 4. Viertel 19. Jh. (D)
-Heubergerweg 3, 6
+Heubergerweg 3, 4, 6
 Winckelmannstraße 6
 Baudenkmale siehe: Sterndamm 84; 88
 Weitere Bestandteile des Ensembles:
@@ -41701,8 +41780,12 @@ Adlergestell 327, 331, Bärensiegel, Fabrik, 1904-06 von Max Jacob
 Adlergestell 778/786, Feuerwache, Straßenbahnhof und Schule, 1900-12 von Kurt Berndt (D) (siehe Ensemble Alt-Schmöckwitz 1-15)
 (TRE-KÖP/SCHMÖ-G)
 
+09020303
+Alt-Treptow 15-17, Gasthaus Zenner, Unterkunftshalle, 1903/04 von Ludwig Hoffmann; Gasthaus, 1953-56 von Hermann Henselmann; Heizhaus, 1953-1955 von VEB Projektierung Berlin (siehe Gartendenkmal Alt-Treptow)
+(TRE-KÖP/ALTTR-G)
+
 09020224
-Am Alten Friedhof 50, Ev. Friedhof Altglienicke, Friedhofskapelle, 1904-05 von F. Nischau und E. Schindler; Umfassungsmauern und Erbbegräbnisse entlang der Straße 130 (Am Friedhof) und Portal, 1905 von E. Markus
+Am Alten Friedhof 50, Ev. Friedhof Altglienicke, Friedhofskapelle, 1904-05 von F. Nischau und E. Schindler; Umfassungsmauern und Erbbegräbnisse entlang der Straße Am Alten Friedhof und Portal, 1905 von E. Markus
 (TRE-KÖP/ALTGL-G)
 
 09045246
@@ -41716,7 +41799,7 @@ Elsenstraße 9-22
 (TRE-KÖP/ALTTR-G)
 
 09020312
-Am Treptower Park 28-30, Elektrizitäts-Aktiengesellschaft Schuckert & Co., Wohnhaus, 1889, Hauptgebäude und  Maschinenhaus 1893, Lagerhaus und -schuppen, 1894; G. Feibisch AG Teppich-Fabrik, Fabrikgebäude mit Schornstein 1904, 1910, Färber- und Wäscherei, 1907 (siehe Ensemble Am Treptower Park 16-18...)
+Am Treptower Park 28-30, Elektrizitäts-Aktiengesellschaft Schuckert & Co., Wohnhaus, 1889, Hauptgebäude und  Maschinenhaus 1893, Lagerhaus und -schuppen, 1894; G. Feibisch AG Teppich-Fabrik, Fabrikgebäude mit Schornstein 1904, 1910 (siehe Ensemble Am Treptower Park 16-18...)
 Herkommer Straße 6
 (TRE-KÖP/PLÄNT-G)
 
@@ -42151,15 +42234,13 @@ Schnellerstraße 137, Borussia-Brauerei, Verwaltungsgebäude und Beamtenwohnhaus
 (TRE-KÖP/NIESW-G)
 
 09045243
-Segelfliegerdamm 1/45, Flugzeugfabrik der Luftverkehrsgesellschaft, 1912-16, um 1921 (D)
-- Verwaltungsgebäude mit Produktionshalle (Gebäude 7, 7A)
-- Fabrikhalle (Gebäude 6)
-- Wohlfahrtsgebäude und Schmiede (Gebäude 5)
-- Versuchshalle (Gebäude 52)
-- Feuerwehr
-- Pförtnerhäuschen mit Einfriedung
-- Fabrikhallen (Gebäude 1-4)
+Segelfliegerdamm 1/45, Flugzeugfabrik der Luftverkehrsgesellschaft, 1912-16, um 1921 (D), Verwaltungsgebäude mit Produktionshalle (Gebäude 7, 7A), Fabrikhalle (Gebäude 6), Wohlfahrtsgebäude und Schmiede (Gebäude 5), Versuchshalle (Gebäude 52), Feuerwehr, Pförtnerhäuschen mit Einfriedung, Fabrikhallen (Gebäude 1-4)
 (TRE-KÖP/JOHTH-G)
+
+09045786
+Siegfried-Berger-Straße 3-4, Meierei Bolle, 1899/1907 von Max Kühnlein
+Wendenschloßstraße 290
+(TRE-KÖP/KÖPEN-G)
 
 09045792
 Stellingdamm 15-15A, Städtisches Gaswerk Köpenick, 1899-1900, 1905 von Hugo Kinzer (Architektur) und Firma Julius Pintsch (technischer Entwurf); Verwaltungsgebäude, um 1910; Kohleschuppen, 1905 (1928-29 Umbau als Garage der ABOAG); Büro- und Verwaltungsgebäude, 1905; Neues Ofenhaus, 1905; Uhren- und Reglerhaus, 1905 (1928-29 Umbau zum Werkstattgebäude); Kesselhaus, 1905; Wohnhaus, 1899; Lager, 1899
@@ -42183,7 +42264,7 @@ Südostallee 106/124, 128/148, Kinderheim in der Königsheide, 1952-53 vom VEB B
 (TRE-KÖP/JOHTH-G)
 
 09080614
-Tunnelstraße 12/Platz am Spreetunnel, Spreetunnel mit Einfahrtsrampen und Tunnelröhre, 1895-99 von C. Schnebel und W. Lauter; Straßenbahnbetriebsgebäude, 1899 (siehe Denkmalliste Friedrichshain-Kreuzberg, Gesamtanlage Tunnelstraße 12/Platz am Spreetunnel)
+Tunnelstraße 12/Platz am Spreetunnel, Spreetunnel mit Einfahrtsrampen und Tunnelröhre, 1895-99 von C. Schnebel und W. Lauter; Straßenbahnbetriebsgebäude, 1899 (siehe Denkmalliste Friedrichshain-Kreuzberg, Gesamtanlage Tunnelstraße 12/Platz am Spreetunnel und Gartendenkmal Alt-Treptow)
 (TRE-KÖP/ALTTR-G)
 
 09045260
@@ -42201,10 +42282,6 @@ Charlottenstraße 25
 
 09045790
 Wendenschloßstraße 254, Marienhain, Wohnhaus und Nebengebäude des Gutshof Bolle und Villa Bolle mit Weinhaus, um 1875 von Carl Bolle (siehe Gartendenkmal Wendenschloßstraße 254)
-(TRE-KÖP/KÖPEN-G)
-
-09045786
-Wendenschloßstraße 290/292, Meierei Bolle, 1899-um 1905 von Max Kühnlein
 (TRE-KÖP/KÖPEN-G)
 
 09020186
@@ -42250,6 +42327,14 @@ Wilhelminenhofstraße 88-89, Gasanstalt Oberspree, Maschinen- und Apparatehaus, 
 
 09020133
 Wilhelminenhofstraße 89A, Norddeutsche Eisenwerke, später ADMOS, Verwaltungsgebäude, 1906 von Bruno Nerlich, Halle, 1941 von Paul Fr. Neiss (D)
+(TRE-KÖP/OBERS-G)
+
+09020103
+Wilhelminenhofstraße 91, Färberei Nalepa, Färbereigebäude mit Kreuzgratgewölbe, vor 1885, Produktionshallen und Wohnhaus, 1903, mit historischem Pflaster, Gleisen und Drehscheibe der Werksbahn
+(TRE-KÖP/OBERS-G)
+
+09020104
+Wilhelminenhofstraße 92, Deutsche Kupferwerke Oberschöneweide, Verwaltungsgebäude, Gießerei, Glüh- und Kesselhaus, 1897/98, Blechwalzwerk und Gießhaus für Messing, 1899/1900, von Robert Buntzel, mit historischem Pflaster und Gleisen 
 (TRE-KÖP/OBERS-G)
 
 09020253
@@ -42397,15 +42482,11 @@ Alt-Schmöckwitz 10, Wohnhaus, um 1860 (siehe Ensemble Alt-Schmöckwitz 1-15)
 (TRE-KÖP/SCHMÖ-D)
 
 09020308
-Alt-Treptow, Abteibrücke mit Brückenhäusern und ehem. Restaurationsgebäude, 1915-16 von v. Emperger (D)
+Alt-Treptow, Abteibrücke mit Brückenhäusern und ehem. Restaurationsgebäude, 1915-16 von v. Emperger (D) (siehe Gartendenkmal Alt-Treptow)
 (TRE-KÖP/ALTTR-D)
 
 09020301
 Alt-Treptow 1, Archenhold-Sternwarte, 1908-09 von Reimer & Körte (D) (siehe Gartendenkmal Alt-Treptow)
-(TRE-KÖP/ALTTR-D)
-
-09020303
-Alt-Treptow 14-17, Gasthaus Zenner, 1954-56 von Hermann Henselmann (siehe Gartendenkmal Alt-Treptow)
 (TRE-KÖP/ALTTR-D)
 
 09045758
@@ -42418,7 +42499,7 @@ Bahnhofstraße
 (TRE-KÖP/KÖPEN-D)
 
 09045837
-Am Goldmannpark 10, Wohnhaus, 1890 von R. Schulz (D)
+Am Goldmannpark 10, Wohnhaus mit Seitenflügel, 1890 von R. Schulz (D)
 (TRE-KÖP/FRIHG-D)
 
 09045838
@@ -42945,6 +43026,10 @@ Lindenstraße 35 (Köpenick), Fabrikantenvilla, nach 1871
 Lindenstraße 42 (Köpenick), Postamt und Paketamt, 1892-93 von E. W. J. Zimmermann, Erweiterung 1906 (D)
 (TRE-KÖP/KÖPEN-D)
 
+09045720
+Lindenstraße 43, Kath. Kirche St. Josef, 1898/99 von Paul Franke, Wiederaufbau nach 1945, Instandsetzung 1957-1968; Pfarrhaus, 1909 von Paul Franke; mit Einfriedung
+(TRE-KÖP/KÖP-D)
+
 09045766
 Lindenstraße 44 (Köpenick), Villa, 1875, Umbau 1880 von C. Schubert (D)
 (TRE-KÖP/KÖPEN-D)
@@ -43058,6 +43143,10 @@ Bulgarische Straße
 Neue Krugallee 4, Amtshaus, nach 1876 (D)
 (TRE-KÖP/PLÄNT-D)
 
+09020084
+Niebergallstraße 6, Landhaus Boehme, 1903-04 von Emil Prüß (?)
+(TRE-KÖP/KÖP-D)
+
 09045218
 Nipkowstraße 17/19, Kath. Christus-König-Kirche mit Pfarrhaus, 1928-30 von Karl Kühn
 (TRE-KÖP/ADLER-D)
@@ -43093,7 +43182,7 @@ Wildenbruchstraße 41
 (TRE-KÖP/ALTTR-D)
 
 09020339
-Puschkinallee, Ringbahnüberführung, um 1910
+Puschkinallee, Ringbahnüberführung, um 1910 (siehe Gartendenkmal Alt-Treptow)
 (TRE-KÖP/ALTTR-D)
 
 09020293
@@ -43304,7 +43393,8 @@ Sterndamm 84, Warmbadeanstalt (Wohnhaus), um 1890 (siehe Ensemble Sterndamm 84..
 (TRE-KÖP/JOHTH-D)
 
 09045234
-Sterndamm 88, Villa Bella Vista, 1880-82 von R. Barkow (siehe Ensemble Sterndamm 84...)
+Sterndamm 88, Villa Bella Vista, Kurhaus mit Pferdestall und Einfriedung, 1880-82 von R. Barkow (siehe Ensemble Sterndamm 84...)
+Heubergerweg 4
 (TRE-KÖP/JOHTH-D)
 
 09045253
@@ -43315,6 +43405,10 @@ Hoevelstraße 3
 09045793
 Straße zum Müggelturm 1, Müggelturm mit Café- bzw. Restaurantanlage, 1960-61 von Jörg Streitparth, Siegfried Wagner und Klaus Weißhaupt
 (TRE-KÖP/KÖPEN-D)
+
+09020085
+Walchenseestraße 3, Wohnhaus Buchholtz, Holzhaus, 1921/22 von Karl Bertsch (Deutsche Werkstätten Hellerau), 1930 nach Grünau versetzt
+(TREP-KÖP/GRÜNA-D)
 
 09045808
 Waldstraße 50, Waldkapelle „Zum anklopfenden Christus“, 1910 von Jürgensen & Bachmann
@@ -43365,7 +43459,7 @@ Weg zur Quelle 13
 Gartendenkmale
 
 09046091
-Alt-Treptow, Treptower Park, Stadtpark, 1876-1889 von Gustav Meyer, Hermann Mächtig; Sowjetisches Ehrenmal, 1947-49 von Jakow S. Belopolski, Antoli Andrejewitsch Gorpenko, Sarra S. Walerius, Jewgeni Wiktorowitsch Wutschetitsch; Austellungsgarten „Blume und Plastik“, 1958-60 von Georg Béla Pniower, Siegfried Sommer; Rosengarten 1969 von Hubert Matthes; Platanenalleen, Puschkinallee und Am Treptower Park zwischen S-Bahntrasse und Schlesischem Busch; Gaststättengarten Zenner (D) (siehe Ensembles Am Treptower Park 16-18; Puschkinallee 1-13...; 34-38 und Baudenkmale Alt-Treptow 1; 14-17)
+Alt-Treptow, Treptower Park, Stadtpark, 1876-1889 von Gustav Meyer, Hermann Mächtig; Sowjetisches Ehrenmal, 1947-49 von Jakow S. Belopolski, Antoli Andrejewitsch Gorpenko, Sarra S. Walerius, Jewgeni Wiktorowitsch Wutschetitsch; Austellungsgarten „Blume und Plastik“, 1958-60 von Georg Béla Pniower, Siegfried Sommer; Rosengarten 1969 von Hubert Matthes; Platanenalleen, Puschkinallee und Am Treptower Park zwischen S-Bahntrasse und Schlesischem Busch; Gaststättengarten Zenner (D) (siehe Ensembles Puschkinallee 1-13...; 34-38 und Gesamtanlagen Alt-Treptow 15-17; Tunnelstraße 12 sowie Baudenkmale Abteibrücke; Alt-Treptow 1; Puschkinallee 37-38; Ringbahnüberführung)
 Am Treptower Park
 Bulgarische Straße
 Puschkinallee
@@ -43390,7 +43484,7 @@ Straße zum FEZ
 Anna-Seghers-Straße 121/133, Vorgärten und Innenhof mit Brunnenanlage, um 1929 von Georg Jacobowitz
 Gellertstraße 16/30
 Radickestraße 62/66
-Schneckenburger Straße 2/8
+Schneckenburgerstraße 2/8
 (TRE-KÖP/BOHND-Ga)
 
 09046020
@@ -43406,10 +43500,6 @@ Borgmannstraße 7, Hofanlage, um 1900
 Buntzelstraße 11-13, Landhausgarten, 1906-07, 1914-20, 1934 von Ludwig Witthöft (siehe Baudenkmal Buntzelstraße 11-13)
 Gründerstraße 22-24
 (TRE-KÖP/BOHND-Ga)
-
-09046022
-Dahlwitzer Landstraße, Kurpark Friedrichshagen mit Freilichtbühne und Senkgarten, um 1880, 1930 von Mattheiem
-(TRE-KÖP/FRIHG-Ga)
 
 09046023
 Firlstraße, Kirchplatz an der Christuskirche, 1907-08 von Robert Leibnitz (?); Denkmal, um 1920 (siehe Baudenkmal Firlstraße, Kirche)
@@ -43444,6 +43534,11 @@ Gosener Landstraße, Friedhof, um 1955 von Oskar Köster
 09046027
 Helmholtzstraße 5, Gartenhof, 1903 von Max Stutterheim (?) (D) (siehe Gesamtanlage Helmholtzstraße 5/9)
 (TRE-KÖP/OBERS-Ga)
+
+09046022
+Hinter dem Kurpark 29, Kurpark Friedrichshagen, 1880, 1930 von Jacob Mattheiem
+Dahlwitzer Landstraße
+(TRE-KÖP/FRIHG-Ga)
 
 09046028
 Hirteplatz, Platzanlage mit Obelisk, 1870, 1895
@@ -43504,8 +43599,14 @@ Wendenschloßstraße 254, Marienhain, Villengarten Bolle und gepflasterte Zufahr
 
 Bodendenkmale
 
+09020108
+An der Wuhlheide, Gemeinschaftslager Karlshorst, Gelände des ehem. Reichsbahn-Arbeitslagers für Kriegsgefangene, 1940-45
+(TRE-KÖP/OBERS-B)
+
 09097768
 Schloßinsel Köpenick, jungbronzezeitliche Wallanlage, slawische und frühdeutsche Burgwallanlagen, spätmittelalterliche Burganlage, Fundamente renaissancezeitlicher Rundtürme und Fundamente des barocken Hauptflügels (siehe Gesamtanlage und Gartendenkmal Schloßinsel Köpenick)
 (TRE-KÖP/KÖPEN-B)
 
-
+09020107
+Treskowallee, GBI-Lager Nr. 77/78, Gelände des ehem. Zwangsarbeiterlagers, 1940-45
+(TRE-KÖP/OBERS-B)
